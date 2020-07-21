@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Harikesh/Downloads/Akshit/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
